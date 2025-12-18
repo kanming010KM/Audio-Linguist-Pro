@@ -1,0 +1,7 @@
+{
+  "name": "Audio-Linguist Pro",
+  "description": "An interactive audio learning studio that segments text into digestible cards with synchronized high-quality TTS and instant vocabulary lookups.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
